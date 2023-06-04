@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-numer = 98
-printf(f"{number} Battery street")
+number = 98
+print(f"{number} Battery street")
 
