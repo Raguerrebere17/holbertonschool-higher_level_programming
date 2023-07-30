@@ -4,7 +4,7 @@
   
 <h1> SQL Introduction </h1>
 
-> This repository contains ...
+> This repository contains all the tasks from Number 0 to Number 16 of the SQL - Introduction project from Holberton School.
 
 </div>
 
@@ -21,11 +21,10 @@
 * [Resources](#resources)
 * [Requirements](#requirements)
 * [Files](#files)
-* [Usage](#usage)
 * [Authors](#authors)
 
 ## About
-Placeholder
+This project is an introduction to the use of the SQL language.
 
 ## Resources
 Placeholder
@@ -34,9 +33,6 @@ Placeholder
 Placeholder
 
 ## Files
-Placeholder
-
-## Usage
 Placeholder
 
 <div align="center">
